@@ -1,5 +1,5 @@
 {
-  "name": "webpack-wrapper",
+  "name": "heap-webpack-wrapper",
   "version": "1.0.0",
   "dependencies": {
     "webpack": {

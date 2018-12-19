@@ -1,13 +1,13 @@
 {
-  "name": "webpack-wrapper",
+  "name": "heap-webpack-wrapper",
   "version": "1.0.0",
   "description": "Helper to allow Heap repo to depend on a second version of webpack.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heap/webpack-wrapper.git"
+    "url": "git+https://github.com/heap/heap-webpack-wrapper.git"
   },
   "bin": {
-    "webpack-wrapper": "./node_modules/.bin/webpack"
+    "heap-webpack-wrapper": "./node_modules/.bin/webpack"
   },
   "dependencies": {
     "webpack": "1.13.1"
